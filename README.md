@@ -11,11 +11,12 @@ Sou um entusiasta da tecnologia com experiência em **desenvolvimento de softwar
 - **Metodologias Ágeis** 🚀  
 
 🎬 **Paixão por Cultura Geek**  
-Além da tecnologia, sou um grande fã de **filmes, séries e animes**, especialmente no gênero de **ficção**. Algumas das minhas sagas favoritas incluem:  
+Além da tecnologia, sou um grande fã de **filmes, séries e animes**, especialmente no gênero de **ficção**. Algumas das minhas sagas e séries favoritas incluem:  
 - 🏹 **O Senhor dos Anéis**  
 - 🌌 **Star Wars**  
-- 🦸‍♂️ **Histórias de heróis** (Marvel, DC e outros universos épicos)
-- ♾️ **Dark**  
+- 🦸‍♂️ **Histórias de heróis** (Marvel, DC e outros universos épicos)  
+- ⏳ **Dark** (viagem no tempo e paradoxos incríveis!)  
+- 🤓 **The Big Bang Theory** (nerds, ciência e muitas risadas!)  
 
 🔗 **Conecte-se comigo:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irineufranciscosouza)  
