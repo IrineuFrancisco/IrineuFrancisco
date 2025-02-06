@@ -14,7 +14,8 @@ Sou um entusiasta da tecnologia com experiência em **desenvolvimento de softwar
 Além da tecnologia, sou um grande fã de **filmes, séries e animes**, especialmente no gênero de **ficção**. Algumas das minhas sagas favoritas incluem:  
 - 🏹 **O Senhor dos Anéis**  
 - 🌌 **Star Wars**  
-- 🦸‍♂️ **Histórias de heróis** (Marvel, DC e outros universos épicos)  
+- 🦸‍♂️ **Histórias de heróis** (Marvel, DC e outros universos épicos)
+- ♾️ **Dark**  
 
 🔗 **Conecte-se comigo:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irineufranciscosouza)  
