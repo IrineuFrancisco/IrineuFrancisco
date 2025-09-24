@@ -1,28 +1,44 @@
-# 👋 Olá! Eu sou Irineu Francisco Souza  
+<p align="center">
+  <img src="banner01.png" alt="Banner de Boas-vindas">
+</p>
 
-🎯 **Sobre mim**  
-Sou um entusiasta da tecnologia com experiência em **desenvolvimento de software**, **banco de dados** e **gestão de projetos**. Minha paixão pela **eletrônica**, **IoT** e **informática** me leva a explorar novas soluções inovadoras, sempre buscando aprender e aplicar novas tecnologias.  
 
-📌 **Minhas principais áreas de interesse:**  
-- **Desenvolvimento de Software** 💻  
-- **Banco de Dados** 📊  
-- **Eletrônica e IoT** 🔌  
-- **UX/UI Design** 🎨  
-- **Metodologias Ágeis** 🚀  
+<p align="left">
+  Sou um professor, desenvolvedor e entusiasta de tecnologia apaixonado por criar soluções inovadoras que unem o mundo do software, hardware e design. Com uma base sólida em <strong>desenvolvimento</strong>, <strong>banco de dados</strong> e <strong>gestão de projetos</strong>, estou sempre explorando novas fronteiras em <strong>IoT</strong> e <strong>eletrônica</strong>.
+</p>
 
-🎬 **Paixão por Cultura Geek**  
-Além da tecnologia, sou um grande fã de **filmes, séries e animes**, especialmente no gênero de **ficção**. Algumas das minhas sagas e séries favoritas incluem:  
-- 🏹 **O Senhor dos Anéis**  
-- 🌌 **Star Wars**  
-- 🦸‍♂️ **Histórias de heróis** (Marvel, DC e outros universos épicos)  
-- ⏳ **Dark** (viagem no tempo e paradoxos incríveis!)  
-- 🤓 **The Big Bang Theory** (nerds, ciência e muitas risadas!)  
+---
 
-🔗 **Conecte-se comigo:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irineufranciscosouza)  
+### 🚀 Principais Habilidades e Ferramentas
 
-💡 **Projetos em destaque**  
-Aqui no GitHub, compartilho projetos envolvendo **desenvolvimento de sistemas**, **IoT**, **banco de dados** e outras inovações tecnológicas. Fique à vontade para explorar meus repositórios!  
 
-📫 **Entre em contato:**  
-Se quiser trocar ideias, bater um papo sobre tecnologia ou cultura geek, ou colaborar em projetos, me chame no LinkedIn ou abra uma issue em algum dos meus repositórios! 🚀  
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,mongodb,azure,googlecloud,git,figma,arduino,linux" />
+  </a>
+</p>
+
+---
+
+
+
+### 🎬 Meus Interesses Além do Código
+
+Além da tecnologia, sou um grande fã de cultura geek e adoro uma boa história. Se você quiser conversar sobre...
+
+- **Fantasia e Ficção Científica:** *O Senhor dos Anéis* e *Star Wars*.
+- **Heróis e Vilões:** As complexas narrativas da Marvel, DC e outros universos.
+- **Paradoxos Temporais:** A genialidade por trás de séries como *Dark*.
+- **Ciência e Humor:** A combinação perfeita de *The Big Bang Theory*.
+
+... me chame para um papo!
+
+---
+
+### 📫 Vamos nos Conectar?
+
+Estou sempre aberto a novas conexões, colaborações e discussões sobre tecnologia ou o último episódio da sua série favorita!
+
+<p align="left">
+<a href="https://linkedin.com/in/irineufranciscosouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irineufranciscosouza" height="30" width="40" /></a>
+</p>
